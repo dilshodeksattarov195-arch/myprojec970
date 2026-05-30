@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtercalidate",
+        "uuid": 5591080,
+        "checksum": "ildcz9"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
